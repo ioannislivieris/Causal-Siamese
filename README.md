@@ -4,6 +4,7 @@ This repository contains the PyTorch implementation of **Causal-Siamese**, a Sia
 
 > **Published in:** *Evolving Systems*, Springer, 2026
 
+> **Demo video:** https://youtu.be/s8xurU1_z0o
 ---
 
 ## Table of Contents
